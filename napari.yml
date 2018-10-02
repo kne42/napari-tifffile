@@ -1,0 +1,6 @@
+plugin_info:
+  plugin_name: tifffile
+  path: tifffile.py
+
+pip_requirements:
+  - tifffile
